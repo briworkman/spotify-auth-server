@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/briworkman/spotify-auth-server/issues"
   },
-  "homepage": "https://github.com/briworkman/spotify-auth-server#readme"
+  "homepage": "https://github.com/briworkman/spotify-auth-server#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
 }
