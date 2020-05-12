@@ -15,7 +15,7 @@ var cookieParser = require('cookie-parser');
 
 var client_id = '244389b876e34d85bad4df502238e7ef'; // Your client id
 var client_secret = '129503648ad745ffb81c8b6d431a7cbf'; // Your secret
-var redirect_uri = 'http://localhost:8888/callback'; // Your redirect uri
+var redirect_uri = 'https://hopeful-yonath-3f7212.netlify.app/callback'; // Your redirect uri
 
 /**
  * Generates a random string containing numbers and letters
